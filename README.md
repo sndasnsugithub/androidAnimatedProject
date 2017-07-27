@@ -1,0 +1,2 @@
+# androidAnimatedProject
+Text Animated 
